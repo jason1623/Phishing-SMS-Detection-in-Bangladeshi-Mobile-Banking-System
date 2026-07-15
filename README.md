@@ -4,4 +4,5 @@ In this paper, we propose a high precision bilingual machine learning framework 
 
 We also a buil a app. Which is part of our thesis.
 This application is the practical implementation and experimental setup for our thesis.
+
 App Link: https://drive.google.com/file/d/1C3I1vpd-bzxGEClhCgRHBSIE9dtY5Qcq/view?usp=drive_link
